@@ -1,5 +1,11 @@
 .contact {
     display: flex;
+    color: whitesmoke;
     flex-direction: column;
     padding-left: 350px;
+}
+
+.conHeadLine{
+    font-size: 100px;
+    color:
 }
