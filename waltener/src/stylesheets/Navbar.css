@@ -1,0 +1,32 @@
+.navcontainer {
+  display: flex;
+  flex-direction: column;
+  border: yellow 3px solid;
+  height: 100vh;
+  width: 15vw;
+  background-color: #e5fff9;
+}
+
+.navul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    border: red solid 2px;
+   
+  }
+
+  li a {
+
+    display: block;
+    width: 60px;
+  }
+
+  .button {
+    width: 9rem;
+    height: 3rem;
+  }
+
+  
