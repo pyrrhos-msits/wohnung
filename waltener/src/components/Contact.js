@@ -6,7 +6,7 @@ export default class Contact extends Component {
       return (
         <div className='contact'>
            
-            <h1>Ihr Vermieter:</h1>
+            <h1 className='conHeadLine'>Ihr Vermieter:</h1>
             <div>Familie Menzel</div>
             <div>Stieglitzweg 3</div>
             <div>87527 Sonthofen</div>
